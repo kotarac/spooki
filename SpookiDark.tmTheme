@@ -357,8 +357,6 @@
                 <dict>
                     <key>foreground</key>
                     <string>#ffc1a8</string>
-                    <key>fontStyle</key>
-                    <string>italic</string>
                 </dict>
             </dict>
             <dict>
@@ -383,8 +381,6 @@
                 <dict>
                     <key>background</key>
                     <string />
-                    <key>fontStyle</key>
-                    <string>italic</string>
                     <key>foreground</key>
                     <string>#f9cfce</string>
                 </dict>
@@ -698,8 +694,6 @@
                 <dict>
                     <key>foreground</key>
                     <string>#6ca0d1</string>
-                    <key>fontStyle</key>
-                    <string>italic</string>
                 </dict>
             </dict>
             <dict>
@@ -720,8 +714,6 @@
                 <string>markup.italic.markdown</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string>italic</string>
                 </dict>
             </dict>
 
@@ -766,8 +758,6 @@
                 <string>meta.function.argument, variable.parameter, meta.parens.c</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string>italic</string>
                 </dict>
             </dict>
             <dict>
@@ -888,8 +878,6 @@
                 <string>entity.name.extends.js</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string>italic</string>
                     <key>foreground</key>
                     <string>#00ff99</string>
                 </dict>
